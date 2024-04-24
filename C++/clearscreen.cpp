@@ -6,8 +6,7 @@ int add();
 int sub();
 
 int main() {
-    int user_input;
-    int result;
+    int user_input, result;
     
     do {
         cls();
