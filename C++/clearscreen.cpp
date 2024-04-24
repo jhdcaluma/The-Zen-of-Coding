@@ -11,7 +11,7 @@ int main() {
     
     do {
         cls();
-        cout<<"C++ Calculator\n1. Add\n2. Multiply\n3. Exit\nEnter your choice: ";
+        cout<<"C++ Calculator\n1. Add\n2. Subtract\n3. Exit\nEnter your choice: ";
         cin>>user_input;
 
         switch(user_input) {
